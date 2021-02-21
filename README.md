@@ -6,7 +6,7 @@ A simple code to encrypt and decrypt a message(String)
 
 1) Run the Encryption code !! (JRE required) (Code in java)
 
-2) Enter your message and hit enter ! 
+2) Enter your message and hit enter ! (Note-> Enter your message in Capital letters to avoid errors !)
  
 3) Enter any number between 0 to 10.
 
